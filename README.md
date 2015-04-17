@@ -1,5 +1,6 @@
 # wordpress_hide_metaboxes
 
+How to use:
 
 <pre>
 		Hide.Metaboxes(
